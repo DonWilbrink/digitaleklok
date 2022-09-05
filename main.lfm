@@ -6,6 +6,7 @@ object Form1: TForm1
   Caption = 'Klok'
   ClientHeight = 94
   ClientWidth = 239
+  Color = clBlack
   OnClose = FormClose
   OnCreate = FormCreate
   object Label1: TLabel
